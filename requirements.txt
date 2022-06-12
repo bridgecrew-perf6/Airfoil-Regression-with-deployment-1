@@ -6,5 +6,4 @@ numpy
 scipy
 scikit-learn
 matplotlib
-pickle
 werkzeug
